@@ -4,8 +4,8 @@
 
 I hack on too many things to list them all and keep it updated. Super-full-stack developer: frontend, backend, firmware, hardware.
 
- - [![Keybase PGP](https://shields.kish.gives/keybase/pgp/kishcom)](https://keybase.io/kishcom) [Keybase](https://keybase.io/kishcom)
- - ![Mastodon Follow](https://shields.kish.gives/mastodon/follow/000000001?domain=https%3A%2F%2Fkish.social&style=plastic)[Mastodon](https://kish.social/@kishcom)
+ - [![Keybase PGP](https://shields.kish.gives/keybase/pgp/kishcom)](https://keybase.io/kishcom)  [Keybase](https://keybase.io/kishcom)
+ - [![Mastodon Follow](https://shields.kish.gives/mastodon/follow/000000001?domain=https%3A%2F%2Fkish.social&style=plastic)](https://kish.social/@kishcom)  [Mastodon](https://kish.social/@kishcom)
  - :money_with_wings: [Ko-Fi](https://ko-fi/kishcom)
  - :briefcase: [LinkedIn](https://kish.gives/his.linkedin)
  - :signal_strength: [Discord](https://kish.gives/his.discord)
